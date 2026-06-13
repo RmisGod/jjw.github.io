@@ -26,14 +26,6 @@ My work sits at the intersection of **deep learning, wireless communications, an
 - **Ph.D. in Information and Communication Engineering**  
   Southwest Jiaotong University (211, Double First‑Class University) · 2021–2025 (expected)  
   Advisor: Prof. Xuming Fang  
-
-- **M.S. in Software Engineering**  
-  Nanchang University (211, Double First‑Class University) · 2018–2021  
-  Advisor: Prof. Jianfeng Xu  
-
-- **B.S. in Software Engineering**  
-  Jiangxi Normal University · 2014–2018  
-
 ---
 
 ## Selected Publications
@@ -86,7 +78,7 @@ The website keeps **structured Markdown/YAML files** for publications, talks, te
 ---
 
 ## Contact
-📧 junjie_wu@my.swjtu.edu.cn  
+📧 jjw@swjtu.edu.cn  
 📍 Chengdu, China · Southwest Jiaotong University  
 
 Feel free to reach out for collaboration, discussion, or academic exchange!
