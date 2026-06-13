@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # 可选: "default", "air", "sunrise", "mint", "dirt", "contrast"
-title                    : "Jiajun Wang / Academic Homepage"
+title                    : "junjie Wu / Academic Homepage"
 title_separator          : "-"
-name                     : &name "Jiajun Wang"
+name                     : &name "junjie Wu"
 description              : &description "Jiajun Wang's academic portfolio — School of Computing, Southwest Jiaotong University"
 url                      : https://jjw-swjtu.github.io # 改为你实际的 GitHub Pages 地址
 baseurl                  : "" # 如果是仓库名子路径再填，例如 "/academicpages"
@@ -137,7 +137,7 @@ og_image                 :
 og_description           :
 social:
   type                   : "Person"
-  name                   : "Jiajun Wang"
+  name                   : "Junjie Wu"
   links:
     - https://github.com/jjw-swjtu
     - https://orcid.org/yourorcidurl
