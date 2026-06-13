@@ -13,7 +13,7 @@ title                    : "junjie Wu / Academic Homepage"
 title_separator          : "-"
 name                     : &name "junjie Wu"
 description              : &description "junjie Wu's academic portfolio — School of Computing, Southwest Jiaotong University"
-url                      : https://jjw-swjtu.github.io # 改为你实际的 GitHub Pages 地址
+url                      : https://rmisgod.github.io/jjw.github.io/ # 改为你实际的 GitHub Pages 地址
 baseurl                  : "" # 如果是仓库名子路径再填，例如 "/academicpages"
 repository               : "jjw-swjtu/jjw-swjtu.github.io"
 
