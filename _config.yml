@@ -11,10 +11,10 @@
 # ----------------------------
 locale                   : "en-US"
 site_theme               : "default" # options: default, air, sunrise, mint, dirt, contrast
-title                    : "Junjie Wu / Academic Homepage"
+title                    : "Junjie Wu"
 title_separator          : "-"
 name                     : &name "Junjie Wu"
-description              : &description "Junjie Wu's academic portfolio — School of Computing, Southwest Jiaotong University"
+description              : &description "Junjie Wu's academic portfolio, School of Computing, Southwest Jiaotong University"
 url                      : "https://rmisgod.github.io/jjw.github.io"
 baseurl                  : ""
 repository               : "jjw-swjtu/jjw-swjtu.github.io"
@@ -24,7 +24,7 @@ repository               : "jjw-swjtu/jjw-swjtu.github.io"
 # ----------------------------
 author:
   # Biographic information
-  avatar           : "images/jjw.png"   # ✅ 放在 /images/jjw.png
+  avatar           : "jjw.png"
   name             : "Junjie Wu"
   pronouns         : "he/him"
   bio              : "Postdoctoral Researcher in Computer Science at Southwest Jiaotong University."
@@ -240,7 +240,7 @@ sass:
 # Permalinks & Timezone
 # ----------------------------
 permalink: /:categories/:title/
-timezone: Asia/Shanghai   # ✅ 中国时区
+timezone: Asia/Shanghai
 
 # ----------------------------
 # Plugins
