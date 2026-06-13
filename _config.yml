@@ -20,10 +20,10 @@ repository               : "jjw-swjtu/jjw-swjtu.github.io"
 # Site Author
 author:
   # Biographic information
-  avatar           : "profile.png"   # 放在 /images/profile.png
-  name             : "Jiajun Wang"
+  avatar           : "jjw.png"   # 放在 /images/profile.png
+  name             : "Junjie Wu"
   pronouns         : "he/him"
-  bio              : "Ph.D. student / researcher in Computer Science at Southwest Jiaotong University."
+  bio              : "Post.Dr  / researcher in Computer Science at Southwest Jiaotong University."
   location         : "Chengdu, China"
   employer         : "Southwest Jiaotong University"
   uri              : https://jjw-swjtu.github.io
@@ -32,7 +32,7 @@ author:
   # Academic websites
   academia         :
   arxiv            :
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=luEfZkQAAAAJ&hl=zh-CN"
   inspire-hep      :
   impactstory      :
   orcid            : "https://orcid.org/yourorcidurl"
@@ -62,7 +62,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "jiajun-wang-swjtu"   # 可替换为你的 LinkedIn
+  linkedin         : "junjie-wu-swjtu"   # 可替换为你的 LinkedIn
   mastodon         :
   medium           :
   pinterest        :
