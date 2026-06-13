@@ -61,28 +61,38 @@ redirect_from:
 
   <div class="publication-list">
     <article class="publication-item">
+      <h3>Mirage: Transmitting a Video as a Perceptual Illusion for 50,000 X Speedup</h3>
+      <p>J. Wu, T. Li, Y. Zhang, and Z. Yang. <em>arXiv preprint arXiv:2602.07396</em>, 2026.</p>
+    </article>
+
+    <article class="publication-item">
+      <h3>Enhancing A2G Robustness in Energy-Constrained Multi-UAV Networks: MADRL for Trajectory Control and Resource Allocation</h3>
+      <p>B. Y. Jingyu Wang, Xuming Fang, Xianbin Wang, Li Yan, and Junjie Wu. <em>IEEE Transactions on Wireless Communications</em>, 2026. Citations: 2.</p>
+    </article>
+
+    <article class="publication-item">
+      <h3>Trajectory Design and Beamforming in UAV-Assisted Wireless Networks: A Fine-Tuned M2LLM-Driven DRL-Based Framework</h3>
+      <p>B. Yin, X. Fang, X. Wang, L. Yan, J. Wu, and J. Wang. <em>IEEE Transactions on Wireless Communications</em>, 2025. Citations: 5.</p>
+    </article>
+
+    <article class="publication-item">
       <h3>DRL Optimization Trajectory Generation via Wireless Network Intent-Guided Diffusion Models for Resource Allocation</h3>
-      <p>Junjie Wu et al. <em>IEEE Internet of Things Journal</em>, 2025.</p>
+      <p>J. Wu, X. Fang, D. Niyato, J. Wang, and J. Wang. <em>IEEE Internet of Things Journal</em>, 2025. Citations: 10.</p>
     </article>
 
     <article class="publication-item">
-      <h3>Service-Differentiated Joint Distributed Communication and Computing Resource Allocation for Wi-Fi Networks</h3>
-      <p>Junjie Wu et al. <em>IEEE Internet of Things Journal</em>, 2025.</p>
+      <h3>Service-Differentiated Joint Distributed Communication and Computing Resource Allocation for Wi-Fi Networks based on Federated Learning and MADRL</h3>
+      <p>J. Wu, X. Fang, and X. Wang. <em>IEEE Internet of Things Journal</em>, 2025. Citations: 9.</p>
     </article>
 
     <article class="publication-item">
-      <h3>Deep Reinforcement Learning based Multi-link Frame Aggregation Length Optimization in Wi-Fi 7</h3>
-      <p>Junjie Wu et al. <em>IEEE Transactions on Wireless Communications</em>, 2024.</p>
+      <h3>Deep Reinforcement Learning based Multi-link Frame Aggregation Length Optimization in Next Generation Wi-Fi Networks</h3>
+      <p>J. Wu, X. Fang, and G. Min. <em>IEEE Transactions on Wireless Communications</em>, 2024. Citations: 19.</p>
     </article>
 
     <article class="publication-item">
-      <h3>Wireless Network Intent-Guided Diffusion Models for Deep Reinforcement Learning Optimization Trajectory Generation</h3>
-      <p>Junjie Wu, Jiangzhou Wang, Haixia Peng, Xuming Fang, Yanbo Hu, and Ping Li. <em>arXiv:2410.14481</em>, 2024. <a href="https://arxiv.org/abs/2410.14481">Paper</a></p>
-    </article>
-
-    <article class="publication-item">
-      <h3>Collaborative Optimization for Multi-agent Deep Reinforcement Learning Based Mobile Edge Computing Resource Allocation</h3>
-      <p>Junjie Wu, Xuming Fang, Jiangzhou Wang, Yanbo Hu, Haixia Peng, and Ping Li. <em>arXiv:2404.01416</em>, 2024. <a href="https://arxiv.org/abs/2404.01416">Paper</a></p>
+      <h3>Optical flow filtering-based micro-expression recognition method</h3>
+      <p>J. Wu, J. Xu, D. Lin, and M. Tu. <em>Electronics</em> 9(12), 2056, 2020. Citations: 17.</p>
     </article>
   </div>
 
