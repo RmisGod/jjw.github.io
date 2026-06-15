@@ -13,3 +13,5 @@ citation: "<strong>Junjie Wu</strong>, X. Fang, and G. Min. (2024). &quot;Deep R
 Authors: <strong>Junjie Wu</strong>, X. Fang, and G. Min.
 
 Source: IEEE Transactions on Wireless Communications, 2024. Google Scholar citations: 19.
+
+Metadata: CCF-B; JCR-Q1; IF 10.7.

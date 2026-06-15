@@ -401,6 +401,22 @@ a:hover {
   background: #6f42c1;
 }
 
+.meta-badge.ccf-b {
+  background: #1565c0;
+}
+
+.meta-badge.ccf-c {
+  background: #00897b;
+}
+
+.meta-badge.if {
+  background: #ef6c00;
+}
+
+.meta-badge.sci {
+  background: #2e7d32;
+}
+
 @media screen and (max-width: 1023px) {
   #main {
     margin-top: 1rem;

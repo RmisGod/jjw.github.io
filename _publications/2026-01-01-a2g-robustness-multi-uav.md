@@ -13,3 +13,5 @@ citation: "Jingyu Wang, Xuming Fang, Xianbin Wang, Li Yan, <strong>Junjie Wu</st
 Authors: Jingyu Wang, Xuming Fang, Xianbin Wang, Li Yan, <strong>Junjie Wu</strong>, and Baolin Yin.
 
 Source: IEEE Transactions on Wireless Communications, 2026. Google Scholar citations: 2.
+
+Metadata: CCF-B; JCR-Q1; IF 10.7.

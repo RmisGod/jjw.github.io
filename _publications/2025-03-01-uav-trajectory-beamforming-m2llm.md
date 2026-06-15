@@ -13,3 +13,5 @@ citation: "B. Yin, X. Fang, X. Wang, L. Yan, <strong>Junjie Wu</strong>, and J. 
 Authors: B. Yin, X. Fang, X. Wang, L. Yan, <strong>Junjie Wu</strong>, and J. Wang.
 
 Source: IEEE Transactions on Wireless Communications, 2025. Google Scholar citations: 5.
+
+Metadata: CCF-B; JCR-Q1; IF 10.7.

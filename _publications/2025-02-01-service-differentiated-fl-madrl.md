@@ -13,3 +13,5 @@ citation: "<strong>Junjie Wu</strong>, X. Fang, and X. Wang. (2025). &quot;Servi
 Authors: <strong>Junjie Wu</strong>, X. Fang, and X. Wang.
 
 Source: IEEE Internet of Things Journal, 2025. Google Scholar citations: 9.
+
+Metadata: CCF-C; JCR-Q1; IF 8.9.

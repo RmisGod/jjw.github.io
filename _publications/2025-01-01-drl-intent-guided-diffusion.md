@@ -13,3 +13,5 @@ citation: "<strong>Junjie Wu</strong>, X. Fang, D. Niyato, J. Wang, and J. Wang.
 Authors: <strong>Junjie Wu</strong>, X. Fang, D. Niyato, J. Wang, and J. Wang.
 
 Source: IEEE Internet of Things Journal, 2025. Google Scholar citations: 10.
+
+Metadata: CCF-C; JCR-Q1; IF 8.9.
