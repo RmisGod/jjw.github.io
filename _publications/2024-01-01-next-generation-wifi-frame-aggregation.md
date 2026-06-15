@@ -7,9 +7,9 @@ excerpt: "Deep reinforcement learning for multi-link frame aggregation length op
 date: 2024-01-01
 venue: "IEEE Transactions on Wireless Communications"
 paperurl: "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=luEfZkQAAAAJ&citation_for_view=luEfZkQAAAAJ:u5HHmVD_uO8C"
-citation: "J. Wu, X. Fang, and G. Min. (2024). &quot;Deep Reinforcement Learning based Multi-link Frame Aggregation Length Optimization in Next Generation Wi-Fi Networks.&quot; <i>IEEE Transactions on Wireless Communications</i>."
+citation: "<strong>Junjie Wu</strong>, X. Fang, and G. Min. (2024). &quot;Deep Reinforcement Learning based Multi-link Frame Aggregation Length Optimization in Next Generation Wi-Fi Networks.&quot; <i>IEEE Transactions on Wireless Communications</i>."
 ---
 
-Authors: J. Wu, X. Fang, and G. Min.
+Authors: <strong>Junjie Wu</strong>, X. Fang, and G. Min.
 
 Source: IEEE Transactions on Wireless Communications, 2024. Google Scholar citations: 19.

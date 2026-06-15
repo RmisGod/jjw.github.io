@@ -7,9 +7,9 @@ excerpt: "A video transmission method that represents video as a perceptual illu
 date: 2026-02-01
 venue: "arXiv preprint arXiv:2602.07396"
 paperurl: "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=luEfZkQAAAAJ&citation_for_view=luEfZkQAAAAJ:ufrVoPGSRksC"
-citation: "J. Wu, T. Li, Y. Zhang, and Z. Yang. (2026). &quot;Mirage: Transmitting a Video as a Perceptual Illusion for 50,000 X Speedup.&quot; <i>arXiv preprint arXiv:2602.07396</i>."
+citation: "<strong>Junjie Wu</strong>, T. Li, Y. Zhang, and Z. Yang. (2026). &quot;Mirage: Transmitting a Video as a Perceptual Illusion for 50,000 X Speedup.&quot; <i>arXiv preprint arXiv:2602.07396</i>."
 ---
 
-Authors: J. Wu, T. Li, Y. Zhang, and Z. Yang.
+Authors: <strong>Junjie Wu</strong>, T. Li, Y. Zhang, and Z. Yang.
 
 Source: arXiv preprint arXiv:2602.07396, 2026.
